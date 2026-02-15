@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Solo (Reprise)",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-02-15T06:11:47.720604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Solo (Reprise)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/01_Solo_(Reprise)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Solo (Reprise) (Feat. André 3000)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/02_Solo_(Reprise)_(Feat._André_3000)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Solo (Reprise)",
+      "artist": "Frank Ocean feat. André 3000",
+      "has_synced": true,
+      "path": "select/03_Solo_(Reprise)_Frank_Ocean_feat._André_3000.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Solo (Reprise)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/04_Solo_(Reprise)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Solo (Reprise) | Hiphopde.com",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/05_Solo_(Reprise)___Hiphopde.com_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Solo (Reprise)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/06_Solo_(Reprise)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Solo (Reprise) (Ft. Andre 3000)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/07_Solo_(Reprise)_(Ft._Andre_3000)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Solo (Reprise)",
+      "artist": "Frank Ocean, Andre 3000",
+      "has_synced": true,
+      "path": "select/08_Solo_(Reprise)_Frank_Ocean,_Andre_3000.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Solo (Reprise) Ft. Andre 3000",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/09_Solo_(Reprise)_Ft._Andre_3000_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "10 - Solo (Reprise)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/10_10_-_Solo_(Reprise)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SOLO REPRISE",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/11_SOLO_REPRISE_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Solo (Reprise) Feat. Andre 3000",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/12_Solo_(Reprise)_Feat._Andre_3000_Frank_Ocean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Solo (Reprise)",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Solo_(Reprise)_Frank_Ocean.txt"
+    }
+  ]
+}
